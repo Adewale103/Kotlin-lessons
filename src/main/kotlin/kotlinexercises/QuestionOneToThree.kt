@@ -4,7 +4,7 @@ import java.util.Scanner
 
 fun main() {
 //1.    Print an Integer
-    val scanner = Scanner(System.`in`)
+ val scanner = Scanner(System.`in`)
     println("Enter any integer: ")
     val number = scanner.nextInt()
     println("The number you entered is: $number")
